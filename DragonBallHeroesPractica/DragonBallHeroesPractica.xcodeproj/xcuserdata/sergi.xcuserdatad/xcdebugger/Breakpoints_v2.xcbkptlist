@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "51FED86B-8413-4698-B3AE-F9F3406B0AC3"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "transformationHeroesList(token:parentHeroId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 4ae3a027b7ed571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 4ae3a027b7ed571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "1772">
+               </Location>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 4ae3a027b7ed571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2172">
+               </Location>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 4ae3a027b7ed571"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2528">
+               </Location>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 140b4c487eb2a091"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "109"
+                  endingLineNumber = "109"
+                  offsetFromSymbolStart = "2528">
+               </Location>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 140b4c487eb2a076"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "2528">
+               </Location>
+               <Location
+                  uuid = "75302785-78B2-4F31-AF90-B425E6ABCCB6 - 140b4c487eb2a057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "2528">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1A85CEDA-B3E1-4E29-BB4E-A71D5DFE4C70"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "125"
+            endingLineNumber = "125"
+            landmarkName = "transformationHeroesList(token:parentHeroId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1A85CEDA-B3E1-4E29-BB4E-A71D5DFE4C70 - 4ae3a027b7ed3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "860">
+               </Location>
+               <Location
+                  uuid = "1A85CEDA-B3E1-4E29-BB4E-A71D5DFE4C70 - 4ae3a027b7ed3ab"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "1A85CEDA-B3E1-4E29-BB4E-A71D5DFE4C70 - 140b4c487eb35fcb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "119"
+                  endingLineNumber = "119"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "1A85CEDA-B3E1-4E29-BB4E-A71D5DFE4C70 - 140b4c487eb35ea0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "124"
+                  endingLineNumber = "124"
+                  offsetFromSymbolStart = "776">
+               </Location>
+               <Location
+                  uuid = "1A85CEDA-B3E1-4E29-BB4E-A71D5DFE4C70 - 140b4c487eb35e81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "125"
+                  endingLineNumber = "125"
+                  offsetFromSymbolStart = "776">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "95034874-3E5D-44E7-B08A-D6344366605A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "129"
+            endingLineNumber = "129"
+            landmarkName = "transformationHeroesList(token:parentHeroId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "95034874-3E5D-44E7-B08A-D6344366605A - 4ae3a027b7ed32f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1172">
+               </Location>
+               <Location
+                  uuid = "95034874-3E5D-44E7-B08A-D6344366605A - 4ae3a027b7ed32f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "95034874-3E5D-44E7-B08A-D6344366605A - 140b4c487eb35f4f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "123"
+                  endingLineNumber = "123"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "95034874-3E5D-44E7-B08A-D6344366605A - 140b4c487eb35e24"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "128"
+                  endingLineNumber = "128"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+               <Location
+                  uuid = "95034874-3E5D-44E7-B08A-D6344366605A - 140b4c487eb35e05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "129"
+                  endingLineNumber = "129"
+                  offsetFromSymbolStart = "1088">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "121"
+            endingLineNumber = "121"
+            landmarkName = "transformationHeroesList(token:parentHeroId:completion:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77 - 4ae3a027b7ed437"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "1736">
+               </Location>
+               <Location
+                  uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77 - 4ae3a027b7ed437"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "2012">
+               </Location>
+               <Location
+                  uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77 - 4ae3a027b7ed437"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/FUNDAMENTOS/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "2368">
+               </Location>
+               <Location
+                  uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77 - 140b4c487eb2a057"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "2368">
+               </Location>
+               <Location
+                  uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77 - 140b4c487eb35f2c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "120"
+                  endingLineNumber = "120"
+                  offsetFromSymbolStart = "2368">
+               </Location>
+               <Location
+                  uuid = "CCA87212-F29D-48BA-A280-CD999E7EEF77 - 140b4c487eb35f0d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 @Sendable (Swift.Optional&lt;Foundation.Data&gt;, Swift.Optional&lt;__C.NSURLResponse&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in DragonBallHeroesPractica.NetworkManager.transformationHeroesList(token: Swift.Optional&lt;Swift.String&gt;, parentHeroId: Swift.Optional&lt;Swift.String&gt;, completion: (Swift.Optional&lt;Swift.Array&lt;DragonBallHeroesPractica.TranformationHero&gt;&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; ()) -&gt; ()"
+                  moduleName = "DragonBallHeroesPractica"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sergi/Desktop/PASAR%20A%20MACBOOK/BOOTCAMP%20KEEPCODING/IOS/FUNDAMENTOS/practicaFundamentosiOS-main/DragonBallHeroesPractica/DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "121"
+                  endingLineNumber = "121"
+                  offsetFromSymbolStart = "2368">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "513F5560-0D6F-4243-8F95-A42608A97616"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DragonBallHeroesPractica/NetworkModel/NetworkManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "transformationHeroesList(token:parentHeroId:completion:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
